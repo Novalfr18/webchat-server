@@ -1,0 +1,12 @@
+{
+  "name": "webchat-server",
+  "version": "1.0.0",
+  "description": "Simple WebSocket server for webchat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
